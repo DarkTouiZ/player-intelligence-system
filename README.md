@@ -6,5 +6,5 @@
 * Task 4: Game Title Detection (Image Classification)
 * Task 5: Account Security Monitoring (Anomaly Detection)
   
->> Each task represents a critical component of the Player Intelligence System.
+> Each task represents a critical component of the Player Intelligence System.
 
